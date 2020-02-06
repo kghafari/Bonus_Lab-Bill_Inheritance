@@ -1,0 +1,11 @@
+C:\Users\kyleg\source\repos\Bonus_Lab-Bill_Inheritance_Challenge\Bonus_Lab-Bill_Inheritance_Challenge\bin\Debug\netcoreapp3.0\Bonus_Lab-Bill_Inheritance_Challenge.exe
+C:\Users\kyleg\source\repos\Bonus_Lab-Bill_Inheritance_Challenge\Bonus_Lab-Bill_Inheritance_Challenge\bin\Debug\netcoreapp3.0\Bonus_Lab-Bill_Inheritance_Challenge.deps.json
+C:\Users\kyleg\source\repos\Bonus_Lab-Bill_Inheritance_Challenge\Bonus_Lab-Bill_Inheritance_Challenge\bin\Debug\netcoreapp3.0\Bonus_Lab-Bill_Inheritance_Challenge.runtimeconfig.json
+C:\Users\kyleg\source\repos\Bonus_Lab-Bill_Inheritance_Challenge\Bonus_Lab-Bill_Inheritance_Challenge\bin\Debug\netcoreapp3.0\Bonus_Lab-Bill_Inheritance_Challenge.runtimeconfig.dev.json
+C:\Users\kyleg\source\repos\Bonus_Lab-Bill_Inheritance_Challenge\Bonus_Lab-Bill_Inheritance_Challenge\bin\Debug\netcoreapp3.0\Bonus_Lab-Bill_Inheritance_Challenge.dll
+C:\Users\kyleg\source\repos\Bonus_Lab-Bill_Inheritance_Challenge\Bonus_Lab-Bill_Inheritance_Challenge\bin\Debug\netcoreapp3.0\Bonus_Lab-Bill_Inheritance_Challenge.pdb
+C:\Users\kyleg\source\repos\Bonus_Lab-Bill_Inheritance_Challenge\Bonus_Lab-Bill_Inheritance_Challenge\obj\Debug\netcoreapp3.0\Bonus_Lab-Bill_Inheritance_Challenge.csprojAssemblyReference.cache
+C:\Users\kyleg\source\repos\Bonus_Lab-Bill_Inheritance_Challenge\Bonus_Lab-Bill_Inheritance_Challenge\obj\Debug\netcoreapp3.0\Bonus_Lab-Bill_Inheritance_Challenge.AssemblyInfoInputs.cache
+C:\Users\kyleg\source\repos\Bonus_Lab-Bill_Inheritance_Challenge\Bonus_Lab-Bill_Inheritance_Challenge\obj\Debug\netcoreapp3.0\Bonus_Lab-Bill_Inheritance_Challenge.AssemblyInfo.cs
+C:\Users\kyleg\source\repos\Bonus_Lab-Bill_Inheritance_Challenge\Bonus_Lab-Bill_Inheritance_Challenge\obj\Debug\netcoreapp3.0\Bonus_Lab-Bill_Inheritance_Challenge.dll
+C:\Users\kyleg\source\repos\Bonus_Lab-Bill_Inheritance_Challenge\Bonus_Lab-Bill_Inheritance_Challenge\obj\Debug\netcoreapp3.0\Bonus_Lab-Bill_Inheritance_Challenge.pdb

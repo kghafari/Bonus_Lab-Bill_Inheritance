@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Bonus_Lab-Bill_Inheritance_Challenge/1.0.0": {
+        "runtime": {
+          "Bonus_Lab-Bill_Inheritance_Challenge.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bonus_Lab-Bill_Inheritance_Challenge/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
